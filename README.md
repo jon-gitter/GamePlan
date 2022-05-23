@@ -7,6 +7,7 @@
 ### Purpose
 
 - GamePlan is an interactive website that lets friends coordinate with each other to hunt in a calendar format.
+- I wanted to create my own website my friends and I could use, improve my software development skills, create a project that utilizes full stack development, and push myself to learn new ways to code.
 
 ### Key Features
 
@@ -27,7 +28,7 @@
 <ul>
   <li> Homepage </li>
     <ul> 
-      <li> Smooth scrolling</li>
+      <li> [] Smooth scrolling</li>
       <li> Tabbed component </li>
       <li> Mouse over transition </li> 
       <li> Sticky nav bar </li> 
@@ -72,6 +73,10 @@
 ## Macro Wireframe
 
 ![project wireframe](/images/Wireframe.jpg)
+
+## Project Blog
+
+[]
 
 ## Contact Info
 

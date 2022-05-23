@@ -26,47 +26,54 @@
 ## Project Roadmap
 
 <ul>
-  <li> Homepage </li>
+  <li> - [ ] Homepage </li>
     <ul> 
       <li> - [ ] Smooth scrolling</li>
-      <li> Tabbed component </li>
-      <li> Mouse over transition </li> 
-      <li> Sticky nav bar </li> 
-      <li> Modal window </li>   
+      <li> - [ ] Tabbed component </li>
+      <li> - [ ] Mouse over transition </li> 
+      <li> - [ ] Sticky nav bar </li> 
+      <li> - [ ] Modal window </li>  
+      <li> - [ ] Styling </li> 
     </ul>
-  <li> Nav Bar </li>
+  <li> - [ ] Nav Bar </li>
     <ul>
-      <li> Links to each page </li> 
+      <li> - [ ] Links to each page </li> 
+      <li> - [ ] Styling </li>
     </ul>
-  <li> Species/Month/Holiday Filter Page</li>
+  <li> - [ ] Species/Month/Holiday Filter Page</li>
     <ul>
-      <li> Drop down selector with filter to navigate to month page</li>
+      <li> - [ ] Drop down selector with filter to navigate to month page</li>
+      <li> - [ ] Styling </li>
     </ul>
-  <li> Species Info Page</li>
+  <li> - [ ] Species Info Page</li>
   <ul>
-      <li> Smooth scrolling</li>
-      <li> Tabbed component </li>
-      <li> Mouse over transition </li> 
-      <li> Sticky nav bar </li> 
-      <li> Modal window </li>
+      <li> - [ ] Smooth scrolling</li>
+      <li> - [ ] Tabbed component </li>
+      <li> - [ ] Mouse over transition </li> 
+      <li> - [ ] Sticky nav bar </li> 
+      <li> - [ ] Modal window </li>
+      <li> - [ ] Styling </li>
     </ul>
-  <li> Calendar Pages </li>
+  <li> - [ ] Calendar Pages </li>
     <ul>
-      <li> Calendar format </li>
-      <li> Each month has a different page </li>
-      <li> Show holidays </li>
-      <li> Saves info for everyone who makes reservations to calendar, persistent data </li>
+      <li> - [ ] Calendar format </li>
+      <li> - [ ] Each month has a different page </li>
+      <li> - [ ] Show holidays </li>
+      <li> - [ ] Saves info for everyone who makes reservations to calendar, persistent data </li>
+      <li> - [ ] Styling </li>
     </ul>
-  <li> Reservation Summary Page</li>
+  <li> - [ ] Reservation Summary Page</li>
   <ul>
-    <li> Table that shows all reservations or tentative dates for hunting</li>
-    <li> Can export to users google calendar </li>
+    <li> - [ ] Table that shows all reservations or tentative dates for hunting</li>
+    <li> - [ ] Can export to users google calendar </li>
+    <li> - [ ] Styling </li>
   </ul>
-  <li> About me Page</li>
+  <li> - [ ] About me Page</li>
   <ul>
-    <li> Bio </li>
-    <li> Why I did this </li>
-    <li> Links/Socials </li>
+    <li> - [ ] Bio </li>
+    <li> - [ ] Why I did this </li>
+    <li> - [ ] Links/Socials </li>
+    <li> - [ ] Styling </li>
   </ul>
 <ul>
 

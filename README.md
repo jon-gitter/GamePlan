@@ -83,7 +83,7 @@
 
 ## Project Blog
 
-[Blog Link](/developmentblog.md)
+[Blog Link](/devblog.md)
 
 ## Contact Info
 

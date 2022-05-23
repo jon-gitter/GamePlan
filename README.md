@@ -28,7 +28,7 @@
 <ul>
   <li> Homepage </li>
     <ul> 
-      <li> [] Smooth scrolling</li>
+      <li> - [ ] Smooth scrolling</li>
       <li> Tabbed component </li>
       <li> Mouse over transition </li> 
       <li> Sticky nav bar </li> 

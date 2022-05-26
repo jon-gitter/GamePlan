@@ -32,7 +32,8 @@
       <li> - [ ] Tabbed component </li>
       <li> - [ ] Mouse over transition </li> 
       <li> - [ ] Sticky nav bar </li> 
-      <li> - [ ] Modal window </li>  
+      <li> - [ ] Modal window </li> 
+      <li> - [ ] Change background on scroll</li>  
       <li> - [ ] Styling </li> 
     </ul>
   <li> - [ ] Nav Bar </li>

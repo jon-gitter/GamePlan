@@ -1,0 +1,32 @@
+/* Body */
+
+/* Header */
+header {
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 975px;
+}
+
+#crosshairlogo {
+  height: 25px;
+  width: 25px;
+}
+
+#nav-links {
+  padding-top: 3px;
+}
+
+#nav-links a {
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  transition: color 0.5s;
+}
+
+#nav-links a:hover {
+  text-decoration: none;
+  color: orangered;
+}
+
+/* Main */

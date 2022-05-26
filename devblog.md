@@ -6,4 +6,4 @@
 
 ## Blog
 
-- 5/26/2022:
+- 5/26/2022: Took me a while to get back in the loop of HTML outline and CSS basics. Good refresh. Easier to use a template to model then trying to do everything from inside your mind. Completed some basic custom logos for the page. Completed the header but still need to add style. Transition and colors were easy to do on the page. I added another feature I want to see, a background that changes on scroll.

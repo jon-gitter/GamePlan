@@ -56,6 +56,14 @@ header {
   margin-top: 400px;
 }
 
+.tabbed-content {
+  display: none;
+}
+
+.content-active {
+  display: grid;
+}
+
 /* Footer */
 
 footer {
@@ -73,6 +81,7 @@ ul {
 
 #bottom-nav-bar {
   display: flex;
+  padding-top: 60px;
 }
 
 #stuck-nav-links {
@@ -92,9 +101,13 @@ ul {
 }
 
 #bottom-left-img {
-  margin-left: 125px;
+  margin-left: 200px;
 }
 
 #bottom-right-img {
   margin-right: 300px;
+}
+
+#copyright {
+  padding-top: 48px;
 }

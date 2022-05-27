@@ -13,18 +13,18 @@ header {
   width: 25px;
 }
 
-#nav-links {
+#sticky-nav-links {
   padding-top: 3px;
 }
 
-#nav-links a {
+#sticky-nav-links a {
   text-decoration: none;
   padding: 10px;
   color: black;
   transition: color 0.5s;
 }
 
-#nav-links a:hover {
+#sticky-nav-links a:hover {
   text-decoration: none;
   color: orangered;
 }
@@ -60,4 +60,16 @@ header {
 footer {
   display: flex;
   margin-top: 200px;
+}
+
+#stuck-nav-links a {
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  transition: color 0.5s;
+}
+
+#stuck-nav-links a:hover {
+  text-decoration: none;
+  color: orangered;
 }

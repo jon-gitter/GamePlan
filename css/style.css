@@ -8,7 +8,7 @@ header {
   padding-left: 975px;
 }
 
-#crosshairlogo {
+.crosshairlogo {
   height: 25px;
   width: 25px;
 }
@@ -20,6 +20,7 @@ header {
 #sticky-nav-links a {
   text-decoration: none;
   padding: 10px;
+
   color: black;
   transition: color 0.5s;
 }
@@ -62,6 +63,22 @@ footer {
   margin-top: 200px;
 }
 
+ul {
+  list-style: none;
+}
+
+.ul-title {
+  font-weight: bold;
+}
+
+#bottom-nav-bar {
+  display: flex;
+}
+
+#stuck-nav-links {
+  padding-top: 3px;
+}
+
 #stuck-nav-links a {
   text-decoration: none;
   padding: 10px;
@@ -72,4 +89,12 @@ footer {
 #stuck-nav-links a:hover {
   text-decoration: none;
   color: orangered;
+}
+
+#bottom-left-img {
+  margin-left: 125px;
+}
+
+#bottom-right-img {
+  margin-right: 300px;
 }

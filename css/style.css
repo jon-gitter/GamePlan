@@ -30,3 +30,34 @@ header {
 }
 
 /* Main */
+
+#section-1 {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 400px;
+}
+
+#section-1 img {
+}
+
+#section-1 div {
+  margin-left: 25px;
+  padding-top: 100px;
+}
+
+#section-1 h2 {
+}
+
+#section-1 h4 {
+}
+
+#section-2 {
+  margin-top: 400px;
+}
+
+/* Footer */
+
+footer {
+  display: flex;
+  margin-top: 200px;
+}

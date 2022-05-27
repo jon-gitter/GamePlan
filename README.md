@@ -28,9 +28,9 @@
 <ul>
   <li> - [ ] Homepage </li>
     <ul> 
-      <li> - [ ] Smooth scrolling</li>
+      <li> - [x] Smooth scrolling - completed 5/27/22</li>
       <li> - [ ] Tabbed component </li>
-      <li> - [ ] Mouse over transition </li> 
+      <li> - [x] Mouse over transition - completed 5/26/22</li> 
       <li> - [ ] Sticky nav bar </li> 
       <li> - [ ] Modal window </li> 
       <li> - [ ] Change background on scroll</li>  

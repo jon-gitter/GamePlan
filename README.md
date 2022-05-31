@@ -37,6 +37,7 @@
       <li> - [ ] Styling </li> 
         <ul>
           <li> - [ ] Blur background when modal pops up </li>
+        </ul>  
     </ul>
   <li> - [ ] Nav Bar </li>
     <ul>

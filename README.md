@@ -30,7 +30,7 @@
     <ul> 
       <li> - [x] Smooth scrolling - completed 5/27/22</li>
       <li> - [x] Tabbed component - completed 5/27/22</li>
-      <li> - [x] Mouse over transition - completed 5/26/22</li>
+      <li> - [x] Mouse over transition on nav bar links - completed 5/26/22</li>
       <li> - [ ] Sticky nav bar </li> 
       <li> - [ ] Modal window</li>
         <ul>

@@ -32,9 +32,11 @@
       <li> - [x] Tabbed component </li> - completed 5/27/22
       <li> - [x] Mouse over transition - completed 5/26/22</li> 
       <li> - [ ] Sticky nav bar </li> 
-      <li> - [ ] Modal window </li> 
+      <li> - [ ] Modal window with timer</li> 
       <li> - [ ] Change background on scroll</li>  
       <li> - [ ] Styling </li> 
+        <ul>
+          <li> - [ ] Blur background when modal pops up </li>
     </ul>
   <li> - [ ] Nav Bar </li>
     <ul>

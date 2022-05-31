@@ -38,3 +38,16 @@ tabsContainer.addEventListener('click', function (e) {
     .querySelector(`.content-${clicked.dataset.tab}`)
     .classList.add('content-active');
 });
+
+///////////// modal window /////////////////
+
+const modal = document.querySelector('.modal');
+const overlay = document.querySelector('.overlay');
+const btnCloseModal = document.querySelector('.close-modal');
+
+setTimeout(() => modal.classList.remove('hidden'), 3000);
+
+btnCloseModal.addEventListener('click', function () {
+  modal.classList.add('hidden');
+  overlay.classList.add('hidden');
+});

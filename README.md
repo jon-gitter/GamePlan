@@ -32,7 +32,13 @@
       <li> - [x] Tabbed component - completed 5/27/22</li>
       <li> - [x] Mouse over transition - completed 5/26/22</li>
       <li> - [ ] Sticky nav bar </li> 
-      <li> - [ ] Modal window with timer</li> 
+      <li> - [ ] Modal window</li>
+        <ul>
+          <li> - [x] Modal appears on timer - completed 5/31/22 </li>
+          <li> - [x] Button to close modal - completed 5/31/22 </li>
+          <li> - [ ] Click outside modal to close </li>
+          <li> - [ ] Hit escape key to close </li>
+        </ul> 
       <li> - [ ] Change background on scroll</li>  
       <li> - [ ] Styling </li> 
         <ul>

@@ -10,4 +10,4 @@
 
 - 5/27/2022: Fixed an annoying problem I had that was keeping my button from smooth scrolling, solution was I had a class id in my javascript (.) instead of the (#) for the button id that I created. As soon as I made this tiny fix the button worked. Learned to use the `<span>` element which allows for more customization inside a `<p>` for instance (change the font, size, etc of whats between `<span>`). Completed the tabbed content feature to homepage. Important to name classes correctly, core function with javascript was adding and removing classes to display and hide the tabbed content when clicking on a button.
 
-- 5/31/2022: Look to section 7 for how to blur background when modal window pops up.
+- 5/31/2022: Look to section 7 for how to blur background when modal window pops up. Having trouble figuring out how to click anywhere outside the modal window to close the modal. Might have something to do with the layout of each element.

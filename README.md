@@ -97,7 +97,7 @@
 
 - Used to annotate lessons learned, tasks completed, and notes on what to work on in the future.
 
-[Blog Link](/devblog.md)
+- [Blog Link](/devblog.md)
 
 ## Contact Info
 

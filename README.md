@@ -39,7 +39,7 @@
           <li> - [x] Click outside modal to close - completed 6/1/22 </li>
           <li> - [x] Hit escape key to close - completed 6/1/22 </li>
           <li> - [x] Lock scroll bar when modal appears - completed 6/1/22 </li>
-          <li> - [ ] Ensure that modal always appears center of the screen when appearing </li>
+          <li> - [ ] Ensure that modal always appears center of the screen no matter where the user is on the page </li>
         </ul> 
       <li> - [ ] Change background on scroll</li>  
       <li> - [ ] Styling </li> 
@@ -94,6 +94,8 @@
 ![project wireframe](/images/Wireframe.jpg)
 
 ## Project Blog
+
+- Used to annotate lessons learned, tasks completed, and notes on what to work on in the future.
 
 [Blog Link](/devblog.md)
 

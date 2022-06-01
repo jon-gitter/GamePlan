@@ -28,7 +28,7 @@
 <ul>
   <li> - [ ] Homepage </li>
     <ul> 
-      <li> - [x] Smooth scrolling - completed 5/27/22</li>
+      <li> - [x] Smooth scrolling (on button click) - completed 5/27/22</li>
       <li> - [x] Tabbed component - completed 5/27/22</li>
       <li> - [x] Mouse over transition on nav bar links - completed 5/26/22</li>
       <li> - [ ] Sticky nav bar </li> 
@@ -44,7 +44,7 @@
       <li> - [ ] Change background on scroll</li>  
       <li> - [ ] Styling </li> 
         <ul>
-          <li> - [ ] Blur background when modal pops up </li>
+          <li> - [x] Blur background when modal pops up - completed 6/1/22 </li>
         </ul>  
     </ul>
   <li> - [ ] Nav Bar </li>

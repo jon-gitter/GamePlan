@@ -87,7 +87,7 @@
     <li> - [ ] Links/Socials </li>
     <li> - [ ] Styling </li>
   </ul>
-<ul>
+</ul>
 
 ## Macro Wireframe
 

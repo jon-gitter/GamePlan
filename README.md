@@ -36,8 +36,10 @@
         <ul>
           <li> - [x] Modal appears on timer - completed 5/31/22 </li>
           <li> - [x] Button to close modal - completed 5/31/22 </li>
-          <li> - [ ] Click outside modal to close </li>
-          <li> - [ ] Hit escape key to close </li>
+          <li> - [x] Click outside modal to close - completed 6/1/22 </li>
+          <li> - [x] Hit escape key to close - completed 6/1/22 </li>
+          <li> - [x] Lock scroll bar when modal appears - completed 6/1/22 </li>
+          <li> - [ ] Ensure that modal always appears center of the screen when appearing </li>
         </ul> 
       <li> - [ ] Change background on scroll</li>  
       <li> - [ ] Styling </li> 

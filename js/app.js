@@ -42,10 +42,53 @@ tabsContainer.addEventListener('click', function (e) {
 ///////////// modal window /////////////////
 
 const modal = document.querySelector('.modal');
+const overlay = document.querySelector('.overlay');
+const body = document.querySelector('body');
 const btnCloseModal = document.querySelector('.close-modal');
 
-setTimeout(() => modal.classList.remove('hidden'), 1000);
+//// opening modal on a timer ///
 
-btnCloseModal.addEventListener('click', function () {
+// setTimeout(() => modal.classList.remove('hidden'), 3000);
+// setTimeout(() => overlay.classList.remove('hidden'), 3000);
+
+// const modalTimer = function (e) {
+//   setTimeout(() => e.classList.remove('hidden'), 1000);
+// };
+
+// modalTimer(modal);
+// modalTimer(overlay);
+
+const openModal = setTimeout(function () {
+  modal.classList.remove('hidden');
+  overlay.classList.remove('hidden');
+  body.classList.add('stopscrolling');
+}, 1000);
+
+//// closing modal by clicking on button OR outside of modal ////
+
+// btnCloseModal.addEventListener('click', function () {
+//   modal.classList.add('hidden');
+//   overlay.classList.add('hidden');
+// });
+
+// overlay.addEventListener('click', function () {
+//   modal.classList.add('hidden');
+//   overlay.classList.add('hidden');
+// });
+
+const closeModal = function () {
   modal.classList.add('hidden');
+  overlay.classList.add('hidden');
+  body.classList.remove('stopscrolling');
+};
+
+btnCloseModal.addEventListener('click', closeModal);
+overlay.addEventListener('click', closeModal);
+
+//// closing modal with esc key ////
+document.addEventListener('keydown', function (e) {
+  // only want to close the modal when it's visible
+  if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+    closeModal();
+  }
 });

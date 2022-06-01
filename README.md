@@ -17,7 +17,7 @@
 - Gives information about species you want to hunt (ex: images, calls, behavior, etc)
 - Integrates with users google calendar
 
-## Built with
+## Built With
 
 - JavaScript
 - HTML

@@ -30,7 +30,11 @@
     <ul> 
       <li> - [x] Smooth scrolling (on button click) - completed 5/27/22</li>
       <li> - [x] Tabbed component - completed 5/27/22</li>
-      <li> - [x] Mouse over transition on nav bar links - completed 5/26/22</li>
+      <li> - [] Mouse over transition on nav bar links</li>
+        <ul>
+          <li>- [ ] Top nav bar with fade and highlighted text</li>
+          <li>- [ ] Bottom nav bar with text that changes color - completed 5/26/22</li>
+        </ul>
       <li> - [ ] Sticky nav bar </li> 
       <li> - [ ] Modal window</li>
         <ul>
@@ -41,7 +45,7 @@
           <li> - [x] Lock scroll bar when modal appears - completed 6/1/22 </li>
           <li> - [ ] Ensure that modal always appears center of the screen no matter where the user is on the page </li>
         </ul> 
-      <li> - [ ] Change background on scroll</li>  
+      <li> - [ ] Lazy load images</li>  
       <li> - [ ] Styling </li> 
         <ul>
           <li> - [x] Blur background when modal pops up - completed 6/1/22 </li>

@@ -30,12 +30,12 @@
     <ul> 
       <li> - [x] Smooth scrolling (on button click) - completed 5/27/22</li>
       <li> - [x] Tabbed component - completed 5/27/22</li>
-      <li> - [] Mouse over transition on nav bar links</li>
+      <li> - [x] Mouse over transition on nav bar links - completed 6/2/2022</li>
         <ul>
-          <li>- [ ] Top nav bar with fade and highlighted text</li>
-          <li>- [ ] Bottom nav bar with text that changes color - completed 5/26/22</li>
+          <li>- [x] Top nav bar with fade and highlighted text - completed 6/2/2022</li>
+          <li>- [x] Bottom nav bar with text that changes color - completed 5/26/22</li>
         </ul>
-      <li> - [ ] Sticky nav bar </li> 
+      <li> - [x] Sticky nav bar - completed 6/2/2022 </li> 
       <li> - [ ] Modal window</li>
         <ul>
           <li> - [x] Modal appears on timer - completed 5/31/22 </li>
@@ -53,7 +53,7 @@
     </ul>
   <li> - [ ] Nav Bar </li>
     <ul>
-      <li> - [ ] Links to each page </li> 
+      <li> - [x] Links to each page - completed 5/26/2022 </li> 
       <li> - [ ] Styling </li>
     </ul>
   <li> - [ ] Species/Month/Holiday Filter Page</li>

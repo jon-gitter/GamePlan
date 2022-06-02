@@ -92,3 +92,39 @@ document.addEventListener('keydown', function (e) {
     closeModal();
   }
 });
+
+/////////// top nav bar fades and highlights option that mouse hovers over ///////////
+const nav = document.querySelector('nav');
+
+const handleHover = function (e) {
+  if (e.target.classList.contains('nav_link')) {
+    const link = e.target;
+    const siblings = link.closest('nav').querySelectorAll('.nav_link');
+
+    siblings.forEach((el) => {
+      if (el !== link) el.style.opacity = this;
+    });
+  }
+};
+
+nav.addEventListener('mouseover', handleHover.bind(0.1));
+nav.addEventListener('mouseout', handleHover.bind(1));
+
+/////////// sticky nav bar that uses intersection observer API  ///////////
+const header = document.querySelector('header');
+const navHeight = nav.getBoundingClientRect().height; // nav is declared on line 97
+
+const stickyNav = function (entries) {
+  const [entry] = entries;
+
+  if (!entry.isIntersecting) nav.classList.add('sticky');
+  else nav.classList.remove('sticky');
+};
+
+const headerObserver = new IntersectionObserver(stickyNav, {
+  root: null,
+  threshold: 0,
+  rootMargin: `-${navHeight}px`,
+});
+
+headerObserver.observe(header);

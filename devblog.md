@@ -16,4 +16,4 @@
 
 - 6/2/2022: opacity is on a scale from 0 to 1. 0 is invisible 1 is completely solid. Difference betweeen .getElementById and .querySelector is that .getElementById can only target IDs while .querySelector can target classes and elements that don't have a class. Using intersection observer API for my scroll feature is complicated, will need to review tha tin the future. The bind() method is helpful to utilize 'this' in callback functions that otherwise couldn't. I used the bind() method in the top nav bar's opacity fading feature.
 
-- 6/2/2022: added defer to script tag and moved it into the `<head>` element.
+- 6/2/2022: added defer to script tag and moved it into the `<head>` element. Completed slider with three testimonials.  Need to review this section later.  I think it would also be helpful to review these advanced DOM features to get stronger at the code. 

@@ -45,7 +45,8 @@
           <li> - [x] Lock scroll bar when modal appears - completed 6/1/22 </li>
           <li> - [ ] Ensure that modal always appears center of the screen no matter where the user is on the page </li>
         </ul> 
-      <li> - [ ] Lazy load images</li>  
+      <li> - [ ] Lazy load images</li>
+      <li> - [x] Slider with testimonials - completed 6/6/22</li>   
       <li> - [ ] Styling </li> 
         <ul>
           <li> - [x] Blur background when modal pops up - completed 6/1/22 </li>
